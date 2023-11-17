@@ -1,4 +1,5 @@
 import json
+from typing import List
 from difflib import get_close_matches
 
 def load_knowledge_base(file_path: str) -> dict:

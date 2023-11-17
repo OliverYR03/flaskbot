@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, request, jsonify
 from chatbot import get_answer_for_mistake, load_knowledge_base, find_best_match, get_answer_for_question
 

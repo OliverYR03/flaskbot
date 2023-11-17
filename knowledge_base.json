@@ -1,4 +1,26 @@
 {
+  "banned_words": [
+    "tonto",
+    "insultar",
+    "discriminacion",
+    "amenazo",
+    "ofensa",
+    "agresion",
+    "desprecio",
+    "injurias",
+    "racismo",
+    "sexismo",
+    "xenofobia",
+    "acoso",
+    "difamao",
+    "maltrato",
+    "hostilidad",
+    "desprecio",
+    "blasfemo",
+    "odio",
+    "irrespetuoso",
+    "obsceno"
+  ],
   "question": [
     {
       "question": "Hola",
@@ -325,47 +347,12 @@
       "answer": "S\u00c3\u00ad, muchas instituciones ofrecen programas acad\u00c3\u00a9micos completos en l\u00c3\u00adnea que permiten a los estudiantes obtener t\u00c3\u00adtulos y certificaciones."
     },
     {
-      "question": "QUE ES EL TAP",
-      "answer": "QUE ES EL TAP"
+      "question": "en todo",
+      "answer": ""
     },
     {
-      "question": "hola pe causa",
-      "answer": "hola pe causa"
-    },
-    {
-      "question": "c\u00f3mo est\u00e1s",
-      "answer": "c\u00f3mo est\u00e1s"
-    },
-    {
-      "question": "HIKA",
-      "answer": "HIKA"
-    },
-    {
-      "question": "que es certus",
-      "answer": "que es certus"
-    },
-    {
-      "question": "Dime si tu andas sola",
-      "answer": "O por qu\u00e9 tanto me ignoras"
-    },
-    {
-      "question": "Te llevo observando hace horas",
-      "answer": "Y deberas te quedas con toooo"
-    },
-    {
-      "question": "me dijeron que andas en todas",
-      "answer": "ozuna"
-    },
-    {
-      "question": "c\u00f3mo",
-      "answer": "como dijo maniki: C\u00d3MOOOOOOOOOOOO"
-    }
-  ],
-  "ban": [
-    {
-      "ban": "Pene",
-      "bAnswer": "Comes"
+      "question": "quiero sacar una cita",
+      "answer": ""
     }
   ]
-  
 }

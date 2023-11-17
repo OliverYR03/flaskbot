@@ -13,7 +13,7 @@ def main_route():
     except Exception as e:
         return jsonify({'error': str(e)}), 400
 
-@app.route('/chat', methods=['GET','POST'])
+@app.route('/chat', methods=['POST'])
 def chat():
     try:
         user_input = request.json['user_input']
